@@ -1,7 +1,7 @@
 
-<h1>👋 Hey! I'm a beginner iOS Developer based in in Minsk!. Here's a little about me:</h1>
+<h2>👋 Hey! I'm a beginner iOS Developer based in in Minsk!. Here's a little about me:</h2>
 
-<h2>📱 iOS Development - I started training quite recently, but I have already made several applications using various technologies!</h2>
+###📱 iOS Development - I started training quite recently, but I have already made several applications using various technologies!
 
 About me:
 
