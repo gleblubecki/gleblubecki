@@ -5,7 +5,6 @@
 
 About me:
 
-- 📊 Ecommerce - I've always been into starting online businesses, having started a few on my own in the past!
-- 🏃‍♂️ Running - Been running since the 7th grade, ran my first 1/2 Marathon at 15 and my first Full at 18
-- 🧘‍♀️ Meditation - Been meditating for about a year now, it's what keeps me sane everyday:)
-- 🌲 Hiking - Even though I spend alot of time in front of a screen, I love discovering new places
+- 🚲 Cycling - I'm cycling in search of something new in my city
+- ☕ Coffee - Enjoy drinking coffee in beautiful places with nice people
+- 📸 Photography - Photograph everything that seems beautiful to me on my phone and film camera
