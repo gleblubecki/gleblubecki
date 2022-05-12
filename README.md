@@ -1,5 +1,5 @@
 
-<h2>👋 Hey! I'm a beginner iOS Developer based in Minsk!. Here's a little about me:</h2>
+<h2>👋 Hey! I'm a beginner iOS Developer based in Minsk! Here's a little about me:</h2>
 
 ### 📱 iOS Development - I started studying quite recently, but I have already made several applications using various technologies!
 
